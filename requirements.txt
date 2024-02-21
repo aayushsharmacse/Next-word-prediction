@@ -5,3 +5,5 @@ tensorflow==2.7.0
 keras==2.7.0
 wordcloud==1.8.1
 matplotlib==3.4.3
+nltk==3.6.5
+string==1.2.0
