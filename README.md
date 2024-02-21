@@ -1,11 +1,11 @@
-#🌟 Next Word Prediction using LSTM and TensorFlow 🌟
+# 🌟 Next Word Prediction using LSTM and TensorFlow 🌟
 
 
-Overview 📝
+## Overview 📝
 This repository contains code for building a next word prediction model using Long Short-Term Memory (LSTM) and TensorFlow. The model is trained on a dataset of text data and is capable of predicting the next word in a sequence of words.
 
 
-Features 🚀
+## Features 🚀
 LSTM Architecture: The model uses a Bidirectional LSTM architecture, which allows it to capture both forward and backward dependencies in the input data.
 Word Embeddings: The input data is converted into word embeddings using an Embedding layer, which helps the model learn the semantic relationships between words.
 Tokenization and Padding: The input sequences are tokenized and padded to a fixed length to ensure uniformity in the input data.
